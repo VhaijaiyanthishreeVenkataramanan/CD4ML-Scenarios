@@ -1,4 +1,8 @@
 {
     "normalize": "true",
+    "alpha": 1.0
+}
+{
+    "normalize": "true",
     "alpha": 50.0
 }
